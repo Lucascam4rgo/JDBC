@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/JDBC - Curso Nélio Alves.iml" filepath="$PROJECT_DIR$/.idea/JDBC - Curso Nélio Alves.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-dao-jdbc/demo-dao-jdbc.iml" filepath="$PROJECT_DIR$/demo-dao-jdbc/demo-dao-jdbc.iml" />
       <module fileurl="file://$PROJECT_DIR$/jdbc/jdbc.iml" filepath="$PROJECT_DIR$/jdbc/jdbc.iml" />
       <module fileurl="file://$PROJECT_DIR$/jdbc2/jdbc2.iml" filepath="$PROJECT_DIR$/jdbc2/jdbc2.iml" />
       <module fileurl="file://$PROJECT_DIR$/jdbc3/jdbc3.iml" filepath="$PROJECT_DIR$/jdbc3/jdbc3.iml" />
